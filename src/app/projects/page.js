@@ -11,8 +11,12 @@ export default function SoftwareProjects() {
         {/* Logo Container */}
         <div className="flex justify-center items-center mb-12">
           {/* Replace these image src with the paths to your logo images */}
-          <img src="ghwb.png" alt="Logo 1" className="h-24 w-auto mx-4" />
-          <img src="glfpw.png" alt="Logo 2" className="h-16 w-auto mx-4" />
+          <a href="https://github.com/aaryanmittal154">
+            <img src="ghwb.png" alt="Logo 1" className="h-24 w-auto mx-4" />
+          </a>
+          <a href="https://gitlab.com/users/aaryanmittal154/projects">
+            <img src="glfpw.png" alt="Logo 2" className="h-16 w-auto mx-4" />
+          </a>
           {/* Add more logos as needed */}
         </div>
 

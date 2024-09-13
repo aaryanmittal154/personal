@@ -10,26 +10,34 @@ export default function WorkExperience() {
         {/* Container for the top logos */}
         <div className="flex justify-center items-center w-full max-w-4xl mb-8 space-x-4">
           {/* Replace with your actual logo URLs */}
-          <img
-            src="/lsm.png"
-            alt="Logo 1"
-            className="h-12 w-24 object-contain"
-          />
-          <img
-            src="/ffk.webp"
-            alt="Logo 2"
-            className="h-24 w-24 object-contain"
-          />
-          <img
-            src="/fbpn.png"
-            alt="Logo 3"
-            className="h-24 w-24 object-contain"
-          />
-          <img
-            src="/hlc.ico"
-            alt="Logo 4"
-            className="h-auto w-12 object-contain"
-          />
+          <a href="https://letsmod.com/">
+            <img
+              src="/lsm.png"
+              alt="Logo 1"
+              className="h-12 w-24 object-contain"
+            />
+          </a>
+          <a href="https://ffkart.com/">
+            <img
+              src="/ffk.webp"
+              alt="Logo 2"
+              className="h-24 w-24 object-contain"
+            />
+          </a>
+          <a href="https://www.projectneutralize.com/">
+            <img
+              src="/fbpn.png"
+              alt="Logo 3"
+              className="h-24 w-24 object-contain"
+            />
+          </a>
+          <a href="https://holic.ai/">
+            <img
+              src="/hlc.ico"
+              alt="Logo 4"
+              className="h-auto w-12 object-contain"
+            />
+          </a>
           <img
             src="/gt.png"
             alt="Logo 5"
