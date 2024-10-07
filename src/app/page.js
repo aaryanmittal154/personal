@@ -139,7 +139,7 @@ export default function HomePage() {
             Education
           </Link>
           <Link
-            href="/skills"
+            href="/technical"
             className="text-gray-400 text-lg md:text-xl hover:text-white transition duration-300"
           >
             Skills
