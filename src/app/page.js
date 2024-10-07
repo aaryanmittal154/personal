@@ -7,15 +7,15 @@ export default function HomePage() {
   return (
     <>
       <Head>
-        <title>Aaryan's Portfolio</title>
+        <title>Aaryan Portfolio</title>
         <meta
           name="description"
-          content="Aaryan's personal website and portfolio."
+          content="Aaryan personal website and portfolio."
         />
-        <meta property="og:title" content="Aaryan's Portfolio" />
+        <meta property="og:title" content="Aaryan Portfolio" />
         <meta
           property="og:description"
-          content="An overview of Aaryan's experiences, projects, and learnings."
+          content="An overview of Aaryan experiences, projects, and learnings."
         />
         <meta property="og:image" content="/profile.jpg" />
         <meta property="og:url" content="https://www.aaryan-portfolio.com" />
@@ -42,7 +42,7 @@ export default function HomePage() {
         {/* Introduction Section */}
         <div className="text-center text-white max-w-2xl z-10">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            Hi, I'm Aaryan <span className="wave inline-block">👋</span>
+            Hi, I am Aaryan <span className="wave inline-block">👋</span>
           </h1>
           <p className="text-lg md:text-xl mb-6">
             A 20-year-old based in Palo Alto, passionate about technology,

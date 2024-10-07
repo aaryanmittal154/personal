@@ -117,7 +117,7 @@ export default function WorkExperience() {
 // Data for work experiences
 const workExperiences = [
   {
-    company: "LET'S MOD",
+    company: "LETS MOD",
     role: "Engineering Intern",
     duration: "Jun 2024 – Aug 2024",
     link: "https://letsmod.com/",
